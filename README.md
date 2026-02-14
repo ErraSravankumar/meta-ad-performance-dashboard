@@ -1,4 +1,7 @@
- Meta Ad Performance Dashboard:-
+![Dashboard Preview](dashboard-preview.png)
+
+
+Meta Ad Performance Dashboard:-
 ----------------------------------
 
 
