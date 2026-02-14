@@ -1,8 +1,8 @@
-📊 Meta Ad Performance Dashboard:-
+ Meta Ad Performance Dashboard:-
 ----------------------------------
 
 
-🔍 Overview:-
+ Overview:-
   ------------
 
 This project analyzes Meta (Facebook & Instagram) advertising campaigns using Power BI.
@@ -10,13 +10,13 @@ This project analyzes Meta (Facebook & Instagram) advertising campaigns using Po
 The dashboard tracks marketing funnel metrics including impressions, clicks, engagement rate, conversion rate, and budget allocation.
 
 
-🎯 Business Problem:-
+ Business Problem:-
  --------------------
 
 Marketing teams require a centralized system to evaluate campaign effectiveness and optimize ROI.
 
 
-📈 KPIs Implemented:-
+ KPIs Implemented:-
 --------------------
 
 Impressions
@@ -36,7 +36,7 @@ Purchase Rate
 Budget Analysis
 
 
-🧠 Key Insights:-
+ Key Insights:-
 ----------------
 
 High awareness but conversion funnel leakage observed
@@ -48,7 +48,7 @@ Young audience (18–30) highly engaged
 Peak engagement during evening hours
 
 
-🛠 Tools & Techniques:-
+ Tools & Techniques:-
 ---------------------
 
 Power BI
@@ -62,7 +62,7 @@ Star Schema Data Modeling
 Marketing Funnel Analysis
 
 
-🚀 Real-World Application:-
+ Real-World Application:-
 --------------------------
 
 Helps marketing teams improve campaign performance and optimize advertising spend.
